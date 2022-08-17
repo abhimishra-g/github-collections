@@ -1,1 +1,12 @@
 # github-collections
+1. https://github.com/jwasham/coding-interview-university
+2. https://github.com/kamranahmedse/developer-roadmap
+3. https://github.com/trekhleb/javascript-algorithms
+4. https://github.com/vinta/awesome-python
+5. https://github.com/goldbergyoni/nodebestpractices
+6. https://github.com/gothinkster/realworld
+7. https://github.com/yangshun/front-end-interview-handbook
+8. https://github.com/ryanmcdermott/clean-code-javascript
+9. https://github.com/lydiahallie/javascript-questions
+10. https://github.com/MunGell/awesome-for-beginners
+11. https://github.com/EbookFoundation/free-programming-books
